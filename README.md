@@ -1,2 +1,2 @@
 # dados_rev
-Exercícios de Revisão da disciplina Estrutura de Dados
+Exercícios correspondentes as listas da disciplina Estrutura de Dados
